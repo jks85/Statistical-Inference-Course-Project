@@ -12,4 +12,4 @@ This repository contains course project files. The project consisted of 2 parts:
    -- primary objective was to use statistical inference techniques to analyze the tooth growth data set in R
    -- data came from an experiment analzying the effect of Vitamin C on tooth growth in guinea pigs based on method of delivery and dose level
 
-   The .Rmd and .md files contain raw code, while the pdf contain formatted versions of the files.
+   The .Rmd files contain raw code. The .md files contain code that can be previewed in a readable format (including charts). The pdfs contain formatted versions of the files.
