@@ -13,3 +13,5 @@ This repository contains course project files. The project consisted of 2 parts:
    -- data came from an experiment analzying the effect of Vitamin C on tooth growth in guinea pigs based on method of delivery and dose level
 
    The .Rmd files contain raw code. The .md files contain code that can be previewed in a readable format (including charts). The pdfs contain formatted versions of the files.
+
+   Note: Plots are currently not displayed correctly in the .md files. See pdf versions for plots. The appendix includes all code required for analysis/plotting.
