@@ -1,7 +1,11 @@
 # Statistical-Inference-Course-Project
 Course Project for Johns Hopkins Data Science Specialization
 
-This repository contains course project files. The project consisted of 2 parts:
+This repository contains course project files.    
+
+Note: Plots are currently not displayed correctly in the .md files since the project was submitted elsewhere as a pdf (per instructions). I will convert the images to pdfs, but for now the pdf is the best version to view. The appendix includes all code required for analysis/plotting.
+
+The project consists of 2 parts:
 
 1. Simulations from Exponential Distribution
    -- files are named "Exp_Samp_Dist"
@@ -14,4 +18,3 @@ This repository contains course project files. The project consisted of 2 parts:
 
    The .Rmd files contain raw code. The .md files contain code that can be previewed in a readable format (including charts). The pdfs contain formatted versions of the files.
 
-   Note: Plots are currently not displayed correctly in the .md files. See pdf versions for plots. The appendix includes all code required for analysis/plotting.
